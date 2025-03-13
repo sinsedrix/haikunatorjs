@@ -41,9 +41,9 @@
     "@types/jest": "^26.0.3",
     "@types/lodash.defaults": "^4.2.5",
     "babel-plugin-add-module-exports": "^1.0.0",
-    "jest": "^25.1.0",
+    "jest": "^25.5.4",
     "standard": "^14.0.0",
-    "ts-jest": "^25.2.1",
+    "ts-jest": "^25.5.1",
     "tslint": "^6.0.0",
     "typescript": "^3.3.3333"
   },
